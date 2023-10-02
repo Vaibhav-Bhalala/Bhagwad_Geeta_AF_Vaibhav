@@ -12,13 +12,13 @@ class SplashScreen extends StatefulWidget {
 class _SplashScreenState extends State<SplashScreen> {
   @override
   Widget build(BuildContext context) {
-    Timer(Duration(seconds: 4),(){
+    Timer(Duration(seconds: 4), () {
       Navigator.pushReplacementNamed(context, 'home');
     });
     return Scaffold(
       body: Container(
-        height: double.infinity,
-        width: double.infinity,
+        height: 300,
+        width: 300,
         decoration: BoxDecoration(
           image: DecorationImage(
               image: AssetImage("Assets/bhagwadgeetasplash.gif"),

@@ -26,8 +26,9 @@ class _HomePageState extends State<HomePage> {
             return Text("${snapshot.error}");
           } else if (snapshot.hasData) {
             List DecodedData = jsonDecode(snapshot.data!);
-            List<JsonModel> allData =
-                DecodedData.map((e) => JsonModel.fromJson(data: e)).toList();
+            List<AllChapterModel> allData =
+                DecodedData.map((e) => AllChapterModel.fromJson(data: e))
+                    .toList();
             return ListView.builder(
               itemCount: allData.length,
               itemBuilder: (ctx, i) {
