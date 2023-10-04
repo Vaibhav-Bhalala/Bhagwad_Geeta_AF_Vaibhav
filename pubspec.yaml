@@ -60,6 +60,7 @@ flutter:
   uses-material-design: true
 
   assets:
+    - Assets/
     - Assets/bhagwadgeetasplash.gif
     - Assets/homepagebackground.jpg
     - all_chapters.json
