@@ -60,8 +60,9 @@ flutter:
   uses-material-design: true
 
   assets:
-    - Assets/
-    - lib/JsonData/all_chapters.json
+    - Assets/bhagwadgeetasplash.gif
+    - Assets/homepagebackground.jpg
+    - all_chapters.json
 
 
   # To add assets to your application, add an assets section, like this:
