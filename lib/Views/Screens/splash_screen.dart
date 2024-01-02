@@ -15,7 +15,8 @@ class _SplashScreenState extends State<SplashScreen> {
     Timer(Duration(seconds: 4), () {
       Navigator.pushReplacementNamed(context, 'home');
     });
-    return Scaffold(backgroundColor: Color(0xfff58300).withOpacity(0.7),
+    return Scaffold(
+      backgroundColor: Color(0xfff58300).withOpacity(0.7),
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
@@ -23,14 +24,20 @@ class _SplashScreenState extends State<SplashScreen> {
             Container(
               height: 300,
               width: 300,
-              decoration: BoxDecoration(borderRadius: BorderRadius.circular(20),
-                image: DecorationImage(
-                    image: AssetImage("Assets/bhagwadgeetasplash.gif"),
-                    fit: BoxFit.cover),
-                boxShadow: [BoxShadow(offset: Offset(6,8),color: Colors.black.withOpacity(0.4))]
-              ),
+              decoration: BoxDecoration(
+                  borderRadius: BorderRadius.circular(20),
+                  image: DecorationImage(
+                      image: AssetImage("assets/bhagwadgeetasplash.gif"),
+                      fit: BoxFit.cover),
+                  boxShadow: [
+                    BoxShadow(
+                        offset: Offset(6, 8),
+                        color: Colors.black.withOpacity(0.4))
+                  ]),
             ),
-            SizedBox(height: 25,),
+            SizedBox(
+              height: 25,
+            ),
             Text(
               "BHAGWAD GEETA 📖 ",
               style: TextStyle(

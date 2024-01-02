@@ -36,6 +36,7 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   provider:
+  shared_preferences:
 
 dev_dependencies:
   flutter_test:
@@ -60,10 +61,8 @@ flutter:
   uses-material-design: true
 
   assets:
-    - Assets/
-    - Assets/bhagwadgeetasplash.gif
-    - Assets/homepagebackground.jpg
-    - all_chapters.json
+    - assets/images/
+    - lib/utils/json/
 
 
   # To add assets to your application, add an assets section, like this:

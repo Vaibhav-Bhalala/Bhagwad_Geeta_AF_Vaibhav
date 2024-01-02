@@ -1,5 +1,5 @@
-class ThemeChange {
+class ThemeModel {
   bool isDark;
 
-  ThemeChange({required this.isDark});
+  ThemeModel({required this.isDark});
 }
