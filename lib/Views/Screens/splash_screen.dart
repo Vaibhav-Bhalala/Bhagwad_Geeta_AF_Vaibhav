@@ -13,7 +13,7 @@ class _SplashScreenState extends State<SplashScreen> {
   @override
   Widget build(BuildContext context) {
     Timer(Duration(seconds: 4), () {
-      Navigator.pushReplacementNamed(context, 'home');
+      Navigator.pushReplacementNamed(context, 'Home_Page');
     });
     return Scaffold(
       backgroundColor: Color(0xfff58300).withOpacity(0.7),
