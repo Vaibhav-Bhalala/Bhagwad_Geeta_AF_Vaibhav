@@ -95,3 +95,12 @@ Submission: Once you have completed your project and uploaded it to your GitHub 
 submit the GitHub repository link to your instructor or as instructed. Double-check that your
 repository is properly organized and includes all the required files, screenshots, GIFs, and APK
 files as per the instructions provided.
+
+<img src="https://github.com/Vaibhav-Bhalala/Bhagwad_Geeta_AF_Vaibhav/assets/122871366/aad32603-99dd-4b58-abc6-e56de05b8b0c" width"250px">
+<img src="https://github.com/Vaibhav-Bhalala/Bhagwad_Geeta_AF_Vaibhav/assets/122871366/4816b78a-b542-4f25-ac71-88ca41b71493" width"250px">
+<img src="https://github.com/Vaibhav-Bhalala/Bhagwad_Geeta_AF_Vaibhav/assets/122871366/67ce3756-b1e1-4296-a009-e0b0c7d3fabe" width"250px">
+<img src="https://github.com/Vaibhav-Bhalala/Bhagwad_Geeta_AF_Vaibhav/assets/122871366/0e23277f-8b82-4351-a105-3c82378efbe9" width"250px">
+<img src="https://github.com/Vaibhav-Bhalala/Bhagwad_Geeta_AF_Vaibhav/assets/122871366/80c507ab-ffe7-44da-b890-401794847e35" width"250px">
+<img src="https://github.com/Vaibhav-Bhalala/Bhagwad_Geeta_AF_Vaibhav/assets/122871366/531d9b41-3440-4996-9c88-6799a4751f45" width"250px">
+<img src="https://github.com/Vaibhav-Bhalala/Bhagwad_Geeta_AF_Vaibhav/assets/122871366/e74f4c85-4573-4f83-ac4f-f01d96242a4c" width"250px">
+
